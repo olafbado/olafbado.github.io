@@ -2,16 +2,16 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://astro-paper.pages.dev/",
-    title: "AstroPaper",
-    description: "A minimal, responsive and SEO-friendly Astro blog theme.",
-    author: "Sat Naing",
-    profile: "https://satna.ing",
-    ogImage: "default-og.jpg",
-    lang: "en",
-    timezone: "Asia/Bangkok",
-    dir: "ltr",
-  },
+  url: "https://olafbado.github.io/",
+  title: "Olaf Bado",
+  description: "Engineering blog covering cloud infrastructure, backend engineering, distributed systems and hands-on projects.",
+  author: "Olaf Bado",
+  profile: "https://olafbado.github.io/",
+  ogImage: "default-og.jpg",
+  lang: "en",
+  timezone: "Europe/Warsaw",
+  dir: "ltr",
+},
   posts: {
     perPage: 4,
     perIndex: 4,
